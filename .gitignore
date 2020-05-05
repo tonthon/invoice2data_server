@@ -1,0 +1,16 @@
+*.pyc
+.*.swp
+*.egg-info
+*.eggs
+*.log
+data
+*.egg
+.~lock*
+dist
+/build/
+.ropeproject
+.vagrant/
+/.pytest_cache
+/docs/build/
+.DS_Store
+tmp
